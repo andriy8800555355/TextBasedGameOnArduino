@@ -3,7 +3,7 @@ char cmd;
 bool trap_active = true;
 
 const char s0[] PROGMEM = "╔═══════[ ТЕМНИЙ ЛІС ]═══════╗";
-const char s1[] PROGMEM = "║  Пригоди чекають на тебе  ║";
+const char s1[] PROGMEM = "║  Пригоди чекають на тебе   ║";
 const char s2[] PROGMEM = "╚════════════════════════════╝";
 const char s3[] PROGMEM = "❤ ";
 const char s4[] PROGMEM = "✧";
